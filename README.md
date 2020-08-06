@@ -1,4 +1,9 @@
-### Hi there 👋
+### Sean Keery 👋
+Author of ["Implementing Cloud Design Patterns for AWS”](https://www.amazon.com/Implementing-Cloud-Design-Patterns-AWS-ebook/dp/B07LH65BLH). 
+Choreography & containers keep me busy nowadays. 
+Snowboarding Instructor Aspen Highlands.
+
+
 
 <!--
 **skibum55/skibum55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
